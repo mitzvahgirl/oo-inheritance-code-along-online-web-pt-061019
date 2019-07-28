@@ -11,7 +11,11 @@ initalize (wheel_size, wheel_number)
   @wheel_number = wheel_number
   end
 
-def global_variables
-  "vrrrrrrroooom!"
-
+def go
+  "vrrrrrrrooom!"
 end
+
+def fill_up_tank
+  "filling up!"
+end
+
